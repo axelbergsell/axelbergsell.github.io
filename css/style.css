@@ -1,0 +1,53 @@
+h1{
+color:#5942f4;
+}
+
+
+
+
+body{
+	background:pink;
+}
+
+ 
+
+
+.navbar-inverse .navbar-brand{background: blue}
+
+.navbar-inverse{		background:blue;
+}
+
+
+
+.navbar-inverse .navbar-nav li a{color:black;}
+
+#big-list{
+	font-size:200%;
+}
+
+#hundbild{
+	float:right;
+}
+
+#hund2bild{
+	float: left;
+}
+
+.favorit{
+	text-align: center;
+}
+
+.list-middle{
+	width:150px;
+	margin-left:43%;
+}
+
+.valkomen{
+	text-align: center;
+}
+#emojibild{
+	float: right;
+}
+.bilder{
+	width: 200px;
+}
